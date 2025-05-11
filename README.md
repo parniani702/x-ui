@@ -29,7 +29,7 @@ This project is a clean and modular implementation of the **UI X** design using 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/ui-x-nextjs.git
+git clone https://github.com/parniani702/x-ui
 cd ui-x
 npm install
 npm run dev
